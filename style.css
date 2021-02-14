@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    margin: auto;
+    font-family: 'Commissioner';
+}
+span, li {
+    letter-spacing: 10px;
+    font-size: 40px;
+}
+#result, #camera {
+    margin: auto
+}
